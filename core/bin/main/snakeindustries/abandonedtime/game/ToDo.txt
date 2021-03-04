@@ -1,0 +1,25 @@
+ToDo
+camera adjustment reduced in small movements
+DONE,ASST: background
+PART.: collectible disappearing and use
+DONE: make object verification based on constants
+DONE: make ItemCollection compressed into 1 for loop
+CNCPT: LevelFinish thing
+CNCPT: Dying
+CNCPT: More powerups?
+CNCPT: Monsters
+BASC: Levels
+
+Sound Effects,
+Walking Animations
+Music
+background
+Dying animation
+
+
+Exporting
+Go to C:\Users\Jake\Desktop\Abandoned Time\gradle
+Run executeGen.bat
+debug any issues should they show up
+go to C:\Users\Jake\Desktop\Abandoned Time\gradle\desktop\build\libs\out-windows64
+then it should work and you have an executable
